@@ -1,0 +1,6 @@
+[default.databases.mongodb]
+url = "mongodb://localhost/?directConnection=true&serverSelectionTimeoutMS=2000"
+[default]
+page_size = 8
+db_name="dixie"
+shared_secret="GwEqjMA6zS0zv4AN7kMdq9vShNvwPeUX"
