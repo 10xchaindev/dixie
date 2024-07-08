@@ -5,6 +5,7 @@ Dixie is a web framework built in rocket and mongodb. It's meant to make buildin
 ## Example 
 
 ### Initialize 
+To initialize your project use the following implementation
 ```rs
 use dotenv::dotenv;
 
